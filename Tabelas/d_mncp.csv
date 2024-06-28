@@ -1,0 +1,167 @@
+id_mncp;nm_regi;sg_uf;nm_mncp
+1;Norte;RR;Boa Vista
+2;Nordeste;CE;Fortaleza
+3;Nordeste;CE;Iguatu
+4;Nordeste;CE;Juazeiro do Norte
+5;Nordeste;CE;Russas
+6;Norte;RR;Rorainópolis
+7;Nordeste;CE;Itapipoca
+8;Nordeste;RN;Natal
+9;Nordeste;CE;Quixadá
+10;Nordeste;CE;Sobral
+11;Nordeste;RN;Mossoró
+12;Nordeste;RN;Caicó
+13;Nordeste;RN;Santa Cruz
+14;Nordeste;PB;Campina Grande
+15;Nordeste;PB;Patos
+16;Nordeste;PB;Monteiro
+17;Nordeste;PB;João Pessoa
+18;Nordeste;PI;Picos
+19;Nordeste;PI;Parnaíba
+20;Nordeste;PI;Teresina
+21;Nordeste;PI;Floriano
+22;Norte;AC;Rio Branco
+23;Norte;AC;Cruzeiro do Sul
+24;Nordeste;MA;Caxias
+25;Nordeste;MA;Bacabal
+26;Nordeste;MA;Balsas
+27;Nordeste;MA;Imperatriz
+28;Norte;RO;Porto Velho
+29;Nordeste;MA;São Luís
+30;Nordeste;PE;Petrolina
+31;Nordeste;BA;Juazeiro
+32;Nordeste;BA;Feira de Santana
+33;Nordeste;PE;Serra Talhada
+34;Nordeste;PE;Caruaru
+35;Nordeste;PE;Olinda
+36;Nordeste;PE;Recife
+37;Nordeste;PE;Vitória de Santo Antão
+38;Nordeste;PE;Jaboatão dos Guararapes
+39;Nordeste;AL;Arapiraca
+40;Nordeste;AL;Maceió
+41;Norte;RO;Ji-Paraná
+42;Nordeste;AL;Delmiro Gouveia
+43;Nordeste;SE;Aracaju
+44;Nordeste;SE;Nossa Senhora da Glória
+45;Nordeste;SE;Lagarto
+46;Nordeste;BA;Alagoinhas
+47;Norte;PA;Belém
+48;Norte;AP;Macapá
+49;Nordeste;BA;Salvador
+50;Norte;PA;Abaetetuba
+51;Nordeste;BA;Itabuna
+52;Nordeste;BA;Vitória da Conquista
+53;Sul;PR;Curitiba
+54;Norte;PA;Ananindeua
+55;Sul;PR;Londrina
+56;Nordeste;BA;Barreiras
+57;Sul;PR;Francisco Beltrão
+58;Sul;PR;Cascavel
+59;Sul;PR;Maringá
+60;Norte;PA;Breves
+61;Norte;TO;Araguaína
+62;Norte;PA;Marabá
+63;Norte;TO;Palmas
+64;Sul;SC;Joinville
+65;Centro-Oeste;GO;Porangatu
+66;Centro-Oeste;GO;Goiânia
+67;Norte;AM;Manaus
+68;Norte;AP;Tartarugalzinho
+69;Norte;PA;Altamira
+70;Centro-Oeste;GO;Aparecida de Goiânia
+71;Centro-Oeste;GO;Rio Verde
+72;Sul;PR;Umuarama
+73;Centro-Oeste;GO;Anápolis
+74;Sudeste;MG;Teófilo Otoni
+75;Sul;SC;Florianópolis
+76;Sudeste;RJ;Niterói
+77;Sudeste;RJ;Rio de Janeiro
+78;Sudeste;RJ;São João de Meriti
+79;Sudeste;MG;Belo Horizonte
+80;Sudeste;MG;Governador Valadares
+81;Sudeste;RJ;São Gonçalo
+82;Centro-Oeste;GO;Goiás
+83;Norte;AM;Manicoré
+84;Sudeste;SP;São Paulo
+85;Sudeste;SP;Mogi das Cruzes
+86;Sudeste;MG;Unaí
+87;Centro-Oeste;GO;Luziânia
+88;Sudeste;MG;Contagem
+89;Sudeste;MG;Divinópolis
+90;Sudeste;SP;Carapicuíba
+91;Sudeste;SP;Sorocaba
+92;Centro-Oeste;MS;Dourados
+93;Sudeste;MG;Barbacena
+94;Sudeste;MG;Betim
+95;Sul;PR;Campo Mourão
+96;Centro-Oeste;MT;Barra do Garças
+97;Sudeste;SP;Bauru
+98;Sul;PR;Cornélio Procópio
+99;Sudeste;MG;Juiz de Fora
+100;Sul;PR;Ponta Grossa
+101;Sul;PR;Irati
+102;Norte;AM;Tabatinga
+103;Sudeste;MG;Montes Claros
+104;Sudeste;ES;Vitória
+105;Sudeste;ES;Vila Velha
+106;Centro-Oeste;MT;Sinop
+107;Sudeste;SP;Itapetininga
+108;Centro-Oeste;DF;Brasília
+109;Sudeste;SP;Mauá
+110;Sudeste;SP;Ourinhos
+111;Sudeste;SP;Diadema
+112;Sudeste;SP;Marília
+113;Sudeste;ES;Serra
+114;Sudeste;RJ;Belford Roxo
+115;Sudeste;ES;Cariacica
+116;Sul;PR;Guarapuava
+117;Sudeste;MG;Diamantina
+118;Sudeste;SP;Jundiaí
+119;Sudeste;SP;São José dos Campos
+120;Sudeste;SP;Presidente Prudente
+121;Sudeste;ES;Colatina
+122;Sudeste;SP;Araçatuba
+123;Centro-Oeste;MT;Tangará da Serra
+124;Sudeste;MG;Poços de Caldas
+125;Sudeste;SP;São Carlos
+126;Sudeste;MG;Curvelo
+127;Sudeste;SP;Itanhaém
+128;Sudeste;RJ;Nova Iguaçu
+129;Centro-Oeste;MT;Cuiabá
+130;Sudeste;SP;Piracicaba
+131;Sudeste;SP;São José do Rio Preto
+132;Sudeste;SP;Guarulhos
+133;Sudeste;SP;São Vicente
+134;Sudeste;SP;Santos
+135;Sudeste;SP;São Bernardo do Campo
+136;Norte;AM;Novo Airão
+137;Centro-Oeste;MS;Campo Grande
+138;Sul;RS;Porto Alegre
+139;Sudeste;MG;Uberlândia
+140;Sudeste;SP;Ribeirão Preto
+141;Centro-Oeste;MT;Rondonópolis
+142;Sudeste;SP;Santo André
+143;Norte;PA;Santarém
+144;Sudeste;SP;Campinas
+145;Sudeste;SP;Osasco
+146;Sudeste;RJ;Duque de Caxias
+147;Sul;SC;Criciúma
+148;Sul;RS;Canoas
+149;Sul;SC;Lages
+150;Sul;RS;Santa Cruz do Sul
+151;Sudeste;RJ;Volta Redonda
+152;Sul;RS;Santa Maria
+153;Sul;SC;Chapecó
+154;Sul;RS;Pelotas
+155;Sul;RS;Caxias do Sul
+156;Sul;RS;Bagé
+157;Centro-Oeste;MS;Três Lagoas
+158;Centro-Oeste;MS;Corumbá
+159;Sul;RS;Passo Fundo
+160;Sul;SC;Blumenau
+161;Sudeste;RJ;Campos dos Goytacazes
+162;Sudeste;ES;Cachoeiro de Itapemirim
+163;Sudeste;ES;Linhares
+164;Sudeste;RJ;Itaperuna
+165;Sudeste;RJ;Cabo Frio
+166;Sudeste;RJ;Nova Friburgo
