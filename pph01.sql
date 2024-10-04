@@ -155,7 +155,7 @@ CREATE TABLE F_ETDC(
 	ID_MNCP INT,                             	-- FK
 	ID_ETDC INT,                             	-- FK
 	ID_FRQC_USO_ETDC INT, 						-- FK
-	ID_DT_MES INT,                             -- FK
+	ID_DT_MES INT,                              -- FK
 	ID_HRAR_USO INT,							-- FK
 	QT_ETDC INT,                             	-- Quantidade eletrodomestico              
 	TIPO_ETDC VARCHAR(60),				     	-- Tipo Eletrodomestico
